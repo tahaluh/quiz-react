@@ -1,10 +1,14 @@
+import React, { useState, useEffect } from "react";
 import './App.css';
-import axios from 'axios';
+import QuizDiv from './components/quizDiv/quizDiv.js'
 
 function App() {
   return (
     <div className="App">
-      <h1>React funcionando?</h1>
+      <div className="Title--div">
+      <h1 className="Tittle">Responde essa</h1>
+      </div>
+      <QuizDiv />
     </div>
   );
 }

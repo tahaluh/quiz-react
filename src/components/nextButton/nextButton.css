@@ -1,0 +1,15 @@
+.NewQuestion--Button {
+	padding: 0.5em;
+	border: 2px solid var(--nextQuestionColor);
+	border-radius: 40px;
+	background: transparent;
+	color: var(--nextQuestionColor);
+	letter-spacing: 1px;
+	font-size: 1.1em;
+	font-family: 'Montserrat', sans-serif;
+    cursor: pointer;
+}
+.NewQuestion--Button:hover {
+	background: var(--correctOptionBackgroundDarker);
+    color: #fff;
+}
