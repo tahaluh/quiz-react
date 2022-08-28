@@ -10,7 +10,7 @@
 
 > A página se comporta como um jogo de quiz, requisitando as trívias a uma api pública e exibindo-as.
 
-<h4 align="center"><a href="" target="_blank">Clique para visitar o projeto</a></h4>
+<h4 align="center"><a href="https://tahaluh.github.io/quiz-react/" target="_blank">Clique para visitar o projeto</a></h4>
 
 ---
 # 💼 Tecnologias Utilizadas
