@@ -51,6 +51,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
 - [x] Traduzir, encontrar ou desenvolver uma api de trívias em português.
+
 Com o auxílio de uma api de tradução gratuita, as questões são traduzidas para português (entretanto com certa frequência os enunciados perdem o sentido).
 
 
